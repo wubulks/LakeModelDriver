@@ -16,6 +16,6 @@ A unified framework for integrating and running multiple lake models (e.g., FLak
 
 | Model       | Type               | Notes                     | Website                                  |
 |-------------|--------------------|---------------------------|------------------------------------------|
-| CoLM-Lake   | 1D Thermodynamic   | Integrated with CoLM      | [CoLM Official](https://github.com/CoLM-SYSU/CoLM202X) |
-| FLake       | 1D Thermal         | Built-in configuration    | [FLake Wiki](http://www.flake.igb-berlin.de/) |
-| Simstrat    | 1D/3D Hydrodynamic | Requires JSON input       | [Simstrat GitHub](https://github.com/Eawag-AppliedSystemAnalysis/Simstrat) |
+| CoLM-Lake   | 1D Thermodynamic   | Integrated with CoLM      | (https://github.com/CoLM-SYSU/CoLM202X) |
+| FLake       | 1D Thermal         | Built-in configuration    | (http://www.flake.igb-berlin.de/) |
+| Simstrat    | 1D/3D Hydrodynamic | Requires JSON input       | (https://github.com/Eawag-AppliedSystemAnalysis/Simstrat) |
