@@ -14,8 +14,8 @@ A unified framework for integrating and running multiple lake models (e.g., FLak
 
 ## Supported Models
 
-| Model              | Vertical structure               | Turbulent mixing parameterization                                                                 | Website                                  |
-|--------------------|----------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------|
-| CoLM&hyphen;Lake   | Multilayer                       | Water surface temperature equals mixed-layer temperature<br>computed from heat flux               | https://github.com/CoLM-SYSU/CoLM202X    |
-| FLake              | Two-layer self-similar structure | Henderson-Sellers thermal diffusion model<br>with wind-driven diffusivity                        | http://www.flake.igb-berlin.de/           |
-| Simstrat           | Multilayer                       | k-ε turbulence model with<br>buoyancy and internal seiche parameterization                      | https://github.com/Eawag-AppliedSystemAnalysis/Simstrat |
+| Model              | Vertical structure               | Type                                           | Website                                  |
+|--------------------|----------------------------------|------------------------------------------------|------------------------------------------|
+| CoLM&hyphen;Lake   | Multilayer                       | multilayer eddy diffusion models               | https://github.com/CoLM-SYSU/CoLM202X    |
+| FLake              | Two-layer self-similar structure | two-layer parametric models                    | http://www.flake.igb-berlin.de/           |
+| Simstrat           | Multilayer                       | 1-D turbulence closure models                  | https://github.com/Eawag-AppliedSystemAnalysis/Simstrat |
