@@ -12,3 +12,10 @@ A unified framework for integrating and running multiple lake models (e.g., FLak
 - **Extensible Design**: Add new lake models with minimal effort.  
 - **Toolchain**: Preprocessing, validation, and visualization utilities included.  
 
+## Supported Models
+
+| Model       | Type               | Notes                     | Website                                  |
+|-------------|--------------------|---------------------------|------------------------------------------|
+| CoLM-Lake   | 1D Thermodynamic   | Integrated with CoLM      | [CoLM Official](https://github.com/CoLM-SYSU/CoLM202X) |
+| FLake       | 1D Thermal         | Built-in configuration    | [FLake Wiki](https://www.flake.igb-berlin.de/) |
+| Simstrat    | 1D/3D Hydrodynamic | Requires JSON input       | [Simstrat GitHub](https://github.com/Eawag-AppliedSystemAnalysis/Simstrat) |
